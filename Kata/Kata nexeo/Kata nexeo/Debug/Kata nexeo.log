@@ -1,0 +1,6 @@
+﻿  Kata nexeo.cpp
+c:\users\victor\documents\travail\nexeo\kata\kata nexeo\kata nexeo\statement.h(6): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\victor\documents\travail\nexeo\kata\kata nexeo\kata nexeo\historical.h(6): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\victor\documents\travail\nexeo\kata\kata nexeo\kata nexeo\kata nexeo.cpp(37): warning C4018: '<' : incompatibilité signed/unsigned
+  Kata nexeo.vcxproj -> C:\Users\victor\Documents\Travail\Nexeo\Kata\Kata nexeo\Debug\Kata nexeo.exe
+  Kata nexeo.vcxproj -> C:\Users\victor\Documents\Travail\Nexeo\Kata\Kata nexeo\Debug\Kata nexeo.pdb (Partial PDB)
